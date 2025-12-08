@@ -3,7 +3,7 @@ package practica1;
 import java.util.Scanner;
 
 public class main {
-    private static final String CARNE = "202000127"; // CAMBIA POR TU CARNÉ
+    private static final String CARNE = "202302574"; 
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
